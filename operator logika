@@ -1,0 +1,17 @@
+#Operator logika
+#operator and
+tinggi_badan = int(input("masukkan tinggi badan"))
+
+if tinggi_badan > 165 and tinggi_badan <= 180 :
+	print("tinggi badan diatas rata-rata")
+else :
+	print("tinggi badan dibawah rata-rata")
+#operator or
+nama =input("masukkan nama anda")
+if nama =="muh" or nama =="rufial" :
+	print("betul nama saya")
+#Operator nagasi /kebalikan(not)
+saya_kuliah =True
+if not saya_kuliah ==False :
+   print("benar")
+	
