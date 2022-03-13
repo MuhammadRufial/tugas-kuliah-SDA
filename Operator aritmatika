@@ -1,0 +1,16 @@
+#OPERATOR
+#Operator aritmatika
+a=int(input("masukkan nilai a :"))
+b=int(input("masukkan nilai b :"))
+#operator perjumlaham
+print(a+b)
+#operator pengurangan
+print(a-b)
+#operator pembagian
+print(a/b)
+#operatoe perkalian
+print(a*b)
+#operator sisa bagi
+print(a%b)
+#operator pangkat
+print(a**b)
